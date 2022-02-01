@@ -1,3 +1,7 @@
+<p align="center">
+  <img style="width:90%;height:300px;" src="gif.gif">
+</p>
+
 - 👋 Hi, I’m @yberkayaltin. 
 - 👀 I’m interested in expolering new things and watching movies.
 - 🌱 I’m currently studying in high school (last year) and learning python and git.
