@@ -1,7 +1,6 @@
 <p align="center">
-  <img style="width:80%;height:220px;" src="bg.png">
+  <img style="width:80%;height:250px;" src="bg.png">
 </p>
-
   <ul>
   <li>👋 Hi, I’m @yberkayaltin. </li>
   <li>👀 I’m interested in expolering new things and watching movies.</li>
