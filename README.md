@@ -6,7 +6,7 @@
   <li>👀 I’m interested in expolering new things and watching movies.</li>
   <li>🌱 I’m currently studying in high school (last year) and learning python and git.</li>
   <li>⚡ I’m looking to collaborate on anything that interests me. (actually, i don't know exactly what are they either🤫)</li>
-  <li>📫 İf you want to talk, feel free to send me an email 🚀y.berkayaltin@gmail.com</li>
+  <li>📫 İf you want to talk, feel free to send me an 🚀[email](mailto:yberkayaltin@gmail.com) or write me on 💬[twitter](https://twitter.com/yberkayaltin) </li>
   </ul>
 
 
