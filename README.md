@@ -15,3 +15,5 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yberkayaltin&show_icons=true&theme=dracula&cache_seconds=100&locale=en" />
 </p>
+
+[comment]: <> (<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yberkayaltin&show_icons=true&theme=dracula&cache_seconds=100&locale=en" alt="yberkayaltin" /></p>)
